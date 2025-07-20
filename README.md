@@ -5,11 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AravindMurgan&label=Profile%20views&color=0e75b6&style=flat" alt="aravind" /> </p> -->
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/aravindmurgan/">
+   <a href="https://www.linkedin.com/in/ezekiel-gerard-60890794/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/aravindmurugan96/">
-    <img src="https://img.shields.io/badge/-Leetcode-yellow?style=flat-square&logo=Leetcode&logoColor=white"/> 
   </a>
 </p>
 
